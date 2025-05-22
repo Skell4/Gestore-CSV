@@ -1,0 +1,24 @@
+# ninja log v6
+3	530	7696550049697973	GestoreCSV_autogen/timestamp	3961afbd9b4494a3
+3	530	7696550049697973	GestoreCSV_autogen/mocs_compilation.cpp	3961afbd9b4494a3
+3	530	7696550049697973	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GestoreCSV_autogen/timestamp	3961afbd9b4494a3
+3	530	7696550049697973	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GestoreCSV_autogen/mocs_compilation.cpp	3961afbd9b4494a3
+536	624	7696550051219768	qrc_resources.cpp	3d8c53b56e0202d2
+536	624	7696550051219768	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qrc_resources.cpp	3d8c53b56e0202d2
+638	1123	7696550051410452	CMakeFiles/GestoreCSV.dir/qrc_resources.cpp.obj	5cf4ab0a98d0ec33
+625	2770	7696550051276239	CMakeFiles/GestoreCSV.dir/GestoreCSV_autogen/mocs_compilation.cpp.obj	a7dbdc1e85e77c79
+629	3957	7696550051322531	CMakeFiles/GestoreCSV.dir/main.cpp.obj	253848eaad9c5fb
+634	4138	7696550051369656	CMakeFiles/GestoreCSV.dir/mainwindow.cpp.obj	c784ac5227717f92
+4139	4465	7696550086416935	GestoreCSV.exe	eb9e913837d7e235
+22	165	7696551192640113	GestoreCSV_autogen/timestamp	3961afbd9b4494a3
+22	165	7696551192640113	GestoreCSV_autogen/mocs_compilation.cpp	3961afbd9b4494a3
+22	165	7696551192640113	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GestoreCSV_autogen/timestamp	3961afbd9b4494a3
+22	165	7696551192640113	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GestoreCSV_autogen/mocs_compilation.cpp	3961afbd9b4494a3
+166	3282	7696551194081811	CMakeFiles/GestoreCSV.dir/mainwindow.cpp.obj	c784ac5227717f92
+3282	3602	7696551225242358	GestoreCSV.exe	eb9e913837d7e235
+6	149	7696553587133968	GestoreCSV_autogen/timestamp	3961afbd9b4494a3
+6	149	7696553587133968	GestoreCSV_autogen/mocs_compilation.cpp	3961afbd9b4494a3
+6	149	7696553587133968	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GestoreCSV_autogen/timestamp	3961afbd9b4494a3
+6	149	7696553587133968	C:/Users/allek/Documents/Qt/GestoreCSV/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GestoreCSV_autogen/mocs_compilation.cpp	3961afbd9b4494a3
+150	3632	7696553588572878	CMakeFiles/GestoreCSV.dir/mainwindow.cpp.obj	c784ac5227717f92
+3632	3955	7696553623377522	GestoreCSV.exe	eb9e913837d7e235
